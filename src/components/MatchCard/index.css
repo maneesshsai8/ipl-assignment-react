@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+  background-color: #0f172a;
+  border-radius: 10px;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+  justify-content: center;
+  width: 250px;
+}
+.image6 {
+  height: 200px;
+  width: 200px;
+}
+
+.color1 {
+  color: green;
+}
+
+.color2 {
+  color: red;
+}

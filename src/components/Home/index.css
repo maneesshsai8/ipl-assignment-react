@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.bg-cont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: center;
+}
+.image2 {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}
+.card {
+  display: flex;
+  flex-direction: row;
+  color: #ffffff;
+  align-items: center;
+  justify-content: center;
+}
+.card1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+}

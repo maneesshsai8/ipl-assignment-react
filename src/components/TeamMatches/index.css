@@ -1,0 +1,91 @@
+/* Write your CSS here */
+.bg-cont2 {
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-cont3 {
+  background-image: linear-gradient(to bottom, #5755a7, #1e293b);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-cont4 {
+  background-image: linear-gradient(to bottom, #d91c1f, #1e293b);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-cont5 {
+  background-image: linear-gradient(to bottom, #f7db00, #5755a7);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-cont6 {
+  background-image: linear-gradient(to bottom, #da237b, #1e293b);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-cont7 {
+  background-image: linear-gradient(to bottom, #13418b, #1e293b);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-cont8 {
+  background-image: linear-gradient(to bottom, #f26d22, #f7db00);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-cont9 {
+  background-image: linear-gradient(to bottom, #4f5db0, #1e293b);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card2 {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.image3 {
+  width: 100%;
+}
+
+.card3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+
+.un-list {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0px;
+}
